@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Example 12",
+    "image": "Example12",
+    "cuisine": "Australian",
+    "latitude": 12.12,
+    "longitude": 12.12,
+    "distance": 1,
+    "venueId": "Australian7",
+    "rating": 4.3,
+    "slug": "Example12",
+    "bookingTime": "29/08/2023 12:30",
+    "userId": "123456A"
+  },
+  {
+    "name": "Example 12",
+    "image": "Example12",
+    "cuisine": "Australian",
+    "latitude": 12.12,
+    "longitude": 12.12,
+    "distance": 1,
+    "venueId": "Australian7",
+    "rating": 4.3,
+    "slug": "Example12",
+    "bookingTime": "31/08/2023 12:30",
+    "userId": "123456A"
+  },
+  {
+    "name": "Example 12",
+    "image": "Example12",
+    "cuisine": "Australian",
+    "latitude": 12.12,
+    "longitude": 12.12,
+    "distance": 1,
+    "venueId": "Australian7",
+    "rating": 4.3,
+    "slug": "Example12",
+    "bookingTime": "01/08/2023 12:30",
+    "userId": "123456A"
+  }
+]
